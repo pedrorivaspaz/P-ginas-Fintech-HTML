@@ -1,0 +1,66 @@
+h1 
+{
+    margin-top:20px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.perfil
+{
+    text-align: center;   
+}
+
+.perfil img
+{
+    width: 190px;
+    height: 190px;
+    border-radius: 100%;
+    margin-bottom: 80px;
+}
+.fundos-img
+{
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+}
+
+.aline-center
+{
+    text-align: center;
+}
+
+p
+{
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+
+.botao
+{
+    padding: 30px 200px;
+    width: 100%;
+    color:black;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s; 
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.botao:hover
+{
+    background: rgb(149, 3, 3);
+    color: black;
+}
+
+.content
+{
+    padding-bottom: 70px;
+}
